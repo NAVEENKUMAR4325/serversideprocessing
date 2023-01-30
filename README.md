@@ -131,10 +131,12 @@ urlpatterns = [
 ```
 
 ## OUTPUT:
-![OUTPUT](picture/out.png)
+![out](https://user-images.githubusercontent.com/119479566/215408248-54cd6111-2e0d-4853-a13f-6729912bf884.png)
+
 
 ### Home Page:
-![Home page](picture/math.png)
+![math](https://user-images.githubusercontent.com/119479566/215408329-6738ad59-dd5c-404b-afec-b6b34a643864.png)
+
 
 
 ## Result:
